@@ -7,6 +7,7 @@
 Digital History Methods
 
 #2/9/2026#
+
 ##This is a Plain Text Test.##
 > I am not sure if I like this as a note-taking device.
 >
